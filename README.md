@@ -6,12 +6,10 @@ A mobile habit tracking app built with React Native CLI and TypeScript that empo
 
 ## 📽️ Demo Video
 
-
-https://github.com/user-attachments/assets/9122d99e-be12-4087-893b-0d811ba42f2e
-
-
 Watch the app in action:  
-🎬 
+🎬 https://github.com/user-attachments/assets/bdc48d30-22bc-456d-89fb-c28bd35fb0b8
+
+
 
 
 ---
@@ -19,16 +17,15 @@ Watch the app in action:
 ## 📦 APK Download
 
 Download and install the latest release:  
-📲 
-
+📲 https://github.com/Tasheen2002/Habit-Tracker-Mobile/releases
 
 ---
 
 ## 🔗 GitHub Repository
 
 Explore the full source code here:  
-🛠️ [GitHub Repository](https://github.com/your-username/habit-tracker-app)  
-*(Replace with your actual GitHub repo URL)*
+🛠️ https://github.com/Tasheen2002/Habit-Tracker-Mobile
+
 
 ---
 
@@ -118,6 +115,5 @@ npx pod-install
 npx react-native run-ios
 
 👨‍💻 Author
-Name: [Your Name]
-Email: [your.email@example.com]
-
+Name: Tasheen Darshika
+Email: darshikatasheen99@gmail.com
